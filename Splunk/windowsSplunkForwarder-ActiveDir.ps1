@@ -8,6 +8,8 @@
 #
 # Samuel Brucker 2024 - 2025
 
+#STATUS: UNKNOWN
+
 # Define variables
 $SPLUNK_VERSION = "9.1.1"
 $SPLUNK_BUILD = "64e843ea36b1"
